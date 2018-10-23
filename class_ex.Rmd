@@ -7,13 +7,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-<<<<<<< HEAD
 ##class exericise git
 
 
-##the earth is flat
-=======
-print("abc")
-
-##class exericise git
->>>>>>> 8b23c68646e95401152121d9bf63737b7b3d3e77
+##the earth is round
