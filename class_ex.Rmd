@@ -8,3 +8,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ##class exericise git
+
+
+##the earth is flat
